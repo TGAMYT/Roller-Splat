@@ -1920,7 +1920,7 @@ MonoBehaviour:
   rb: {fileID: 498303722}
   moveParticle: {fileID: 1438565936, guid: ef0ba054ae8218b4ca98983370294a93, type: 3}
   speed: 15
-  minSwipeRecognition: 500
+  minSwipeRecognition: 700
 --- !u!54 &498303722
 Rigidbody:
   m_ObjectHideFlags: 0
